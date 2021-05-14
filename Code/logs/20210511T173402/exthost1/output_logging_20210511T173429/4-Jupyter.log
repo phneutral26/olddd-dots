@@ -1,0 +1,25 @@
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-05-11 17:34:29: ZMQ install verified.
+Info 2021-05-11 17:34:30: id is 114ce796-0432-4e7d-8d2e-01b25e5eb878
+Info 2021-05-11 17:34:30: Found existing keyfile at /home/phil/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-05-11 17:34:30: Search all interpreters /bin/python, /sbin/python, /usr/bin/python, /usr/sbin/python
+Info 2021-05-11 17:34:30: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-05-11 17:34:30: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-05-11 17:34:30: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-05-11 17:34:30: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-05-11 17:34:30: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-05-11 17:34:31: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-05-11 17:34:31: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-05-11 17:34:31: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-05-11 17:34:31: Process Execution: > /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.811652604/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
