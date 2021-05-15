@@ -1,0 +1,391 @@
+  accerciser Interactive Python accessibility explorer for the GNOME desktop
+                acpi Client for battery, power, and thermal readings
+               acpid A daemon for delivering ACPI power management events with netlink support
+adobe-source-han-sans-cn-fonts Adobe Source Han Sans Subset OTF - Simplified Chinese OpenType/CFF fonts
+adobe-source-han-sans-jp-fonts Adobe Source Han Sans Subset OTF - Japanese OpenType/CFF fonts
+adobe-source-han-sans-kr-fonts Adobe Source Han Sans Subset OTF - Korean OpenType/CFF fonts
+adobe-source-sans-pro-fonts Sans-serif font family for user interface environments
+  adwaita-icon-theme GNOME standard icons
+        adwaita-maia A modified default GNOME/GTK theme with some extras/enhancements/additions.
+            alacarte Menu editor for gnome
+           alacritty A cross-platform, GPU-accelerated terminal emulator
+       alsa-firmware Firmware binaries for loader programs in alsa-tools and hotplug firmware loader
+          alsa-utils Advanced Linux Sound Architecture - Utilities
+            apparmor Mandatory Access Control (MAC) using Linux Security Module (LSM)
+            autoconf A GNU tool for automatically configuring source code
+            automake A GNU tool for automatically creating Makefiles
+               avahi Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
+        b43-fwcutter firmware extractor for the b43 kernel module
+              baobab A graphical directory tree analyzer
+                bash The GNU Bourne Again shell
+          bash-pipes pipes.sh (animated pipes terminal screensaver) with additional better names (soft links)
+    betterlockscreen A simple, minimal lockscreen
+            binutils A set of programs to assemble and manipulate binary and object files
+               bison The GNU general-purpose parser generator
+             blueman GTK+ Bluetooth Manager
+               bmenu Bash scripts providing a collection of terminal applications in a simple UI
+               bspwm Tiling window manager based on binary space partitioning
+         btrfs-progs Btrfs filesystem utilities
+              byzanz Record what's happening on your desktop
+               bzip2 A high-quality data compression program
+         caffeine-ng Status bar application able to temporarily inhibit the screensaver and sleep mode.
+             cmatrix A curses-based scrolling 'Matrix'-like screen
+           coreutils The basic file, shell and text manipulation utilities of the GNU operating system
+         cozette-otb A bitmap programming font optimized for coziness
+            cpupower Linux kernel tool to examine and tune power saving related features of your processor
+                crda Central Regulatory Domain Agent for wireless networks
+              cronie Daemon that runs specified programs at scheduled times and related tools
+          cryptsetup Userspace setup tool for transparent encryption of block devices using dm-crypt
+        dconf-editor dconf Editor
+            deja-dup Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend
+             devhelp API documentation browser for GNOME
+       device-mapper Device mapper userspace library and tools
+            dhclient A standalone DHCP client from the dhcp package
+              dhcpcd RFC2131 compliant DHCP client daemon
+              dialog A tool to display dialog boxes from shell scripts
+           diffutils Utility programs used for creating patch files
+      discord-canary All-in-one voice and text chat for gamers that's free and secure.
+            discount A Markdown implementation written in C
+           dmidecode Desktop Management Interface table related utilities
+              dmraid Device mapper RAID interface
+             dnsmasq Lightweight, easy to configure DNS forwarder and DHCP server
+          dosfstools DOS filesystem utilities
+               dunst Customizable and lightweight notification-daemon
+           e2fsprogs Ext2/3/4 filesystem utilities
+      ecryptfs-utils Enterprise-class stacked cryptographic filesystem for Linux
+          efibootmgr Linux user-space application to modify the EFI Boot Manager
+                 eog Eye of Gnome: An image viewing and cataloging program
+            epiphany A GNOME web browser based on the WebKit rendering engine
+              evince Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)
+           evolution Manage your email, contacts and schedule
+evolution-data-server Centralized access to appointments and contacts
+         exfat-utils Utilities for exFAT file system
+          f2fs-tools Tools for Flash-Friendly File System (F2FS)
+            fakeroot Tool for simulating superuser privileges
+                  fd Simple, fast and user-friendly alternative to find
+                 feh Fast and light imlib2-based image viewer
+          fet.sh-git A simple fetch written in POSIX shell without any external commands
+   ffmpegthumbnailer Lightweight video thumbnailer that can be used by file managers.
+                file File type identification utility
+         file-roller Create and modify archives
+          filesystem Base Manjaro Linux files
+           findutils GNU utilities to locate files
+             firefox Standalone web browser from mozilla.org
+firefox-gnome-theme-maia Adwaita theme with maia highlight color for Firefox
+     firefox-nightly Standalone Web Browser from Mozilla — Nightly build (en-US)
+                fish Smart and user friendly shell intended mostly for interactive use
+        five-or-more Remove colored balls from the board by forming lines
+                flex A tool for generating text-scanning programs
+       four-in-a-row Make lines of the same color to win
+             fprintd D-Bus service to access fingerprint readers
+                gawk GNU version of awk
+                 gcc The GNU Compiler Collection - C and C++ frontends
+            gcc-libs Runtime libraries shipped by GCC
+        gdm-plymouth Display manager and login screen with plymouth support
+               geary A lightweight email client for the GNOME desktop
+               gedit GNOME Text Editor
+             gettext GNU internationalization library
+                ghex A simple binary editor for the Gnome desktop
+          github-cli The GitHub CLI
+               glade User Interface Builder for GTK+ applications
+               glibc GNU C Library
+   gnome-backgrounds Background images and data for GNOME
+         gnome-books Access and organize your e-books on GNOME
+         gnome-boxes Simple GNOME application to access remote or virtual systems
+       gnome-builder An IDE for writing GNOME-based software
+    gnome-calculator GNOME Scientific calculator
+      gnome-calendar Simple and beautiful calendar application designed to perfectly fit the GNOME desktop
+    gnome-characters A character map application
+         gnome-chess Play the classic two-player boardgame of chess
+        gnome-clocks Clocks applications for GNOME
+gnome-code-assistance Code assistance services for GNOME
+   gnome-connections Remote desktop client for the GNOME desktop environment
+      gnome-contacts Contacts Manager for GNOME
+gnome-control-center GNOME's main interface to configure various aspects of the desktop
+       gnome-desktop Library with common API for various GNOME modules
+    gnome-devel-docs Developer documentation for GNOME
+  gnome-disk-utility Disk Management Utility for GNOME
+     gnome-documents A document manager application for GNOME
+      gnome-firmware Manage firmware on devices supported by fwupd
+   gnome-font-viewer A font viewer utility for GNOME
+         gnome-games Simple game launcher for GNOME
+       gnome-keyring Stores passwords and encryption keys
+       gnome-klotski Slide blocks to solve the puzzle
+gnome-layout-switcher A simple gui for choosing gnome desktop layout
+          gnome-logs A log viewer for the systemd journal
+      gnome-mahjongg Disassemble a pile of tiles by removing matching pairs
+          gnome-maps A simple GNOME 3 maps application
+         gnome-mines Clear hidden mines from a minefield
+  gnome-multi-writer Write an ISO file to multiple USB devices at once
+         gnome-music Music player and management application
+       gnome-nettool Graphical interface for various networking tools
+       gnome-nibbles Guide a worm around a maze
+gnome-online-accounts Single sign-on framework for GNOME
+        gnome-photos Access, organize, and share your photos on GNOME
+       gnome-recipes Recipe management application for GNOME
+gnome-remote-desktop GNOME Remote Desktop server
+        gnome-robots Avoid the robots and make them crash into each other
+    gnome-screenshot Take pictures of your screen
+       gnome-session The GNOME Session Handler
+gnome-settings-daemon GNOME Settings Daemon
+         gnome-shell Next generation desktop shell
+gnome-shell-extension-gsconnect KDE Connect implementation with GNOME Shell integration
+gnome-shell-extension-nightthemeswitcher Toggle between dark and light gtk theme according to the night light status
+gnome-shell-extensions Extensions for GNOME shell, including classic mode
+      gnome-software GNOME Software Tools
+gnome-sound-recorder A utility to make simple audio recording from your GNOME desktop
+        gnome-sudoku Test your logic skills in this number grid puzzle
+    gnome-system-log View your system logs
+gnome-system-monitor View current processes and monitor system state
+        gnome-taquin Move tiles so that they reach their places
+      gnome-terminal The GNOME Terminal Emulator
+      gnome-tetravex Complete the puzzle by matching numbered tiles
+  gnome-themes-extra Extra Themes for GNOME Applications
+          gnome-todo Task manager for GNOME
+        gnome-tweaks Graphical interface for advanced GNOME 3 settings (Tweak Tool)
+         gnome-usage GNOME application to view information about use of system resources
+     gnome-user-docs User documentation for GNOME
+    gnome-user-share Easy to use user-level file sharing for GNOME
+    gnome-wallpapers Manjaro Linux Gnome wallpapers
+       gnome-weather Access current weather conditions and forecasts
+               gotop A terminal based graphical activity monitor inspired by gtop and vtop
+             gparted A Partition Magic clone, frontend to GNU Parted
+               gpick Advanced color picker written in C++ using GTK+ toolkit
+                grep A string search utility
+       grilo-plugins A collection of plugins for the Grilo framework
+                grub GNU GRand Unified Bootloader (2)
+  grub-theme-manjaro Manjaro Linux grub theme
+           gst-libav Multimedia graph framework - libav plugin
+     gst-plugins-bad Multimedia graph framework - bad plugins
+    gst-plugins-base Multimedia graph framework - base plugins
+    gst-plugins-good Multimedia graph framework - good plugins
+    gst-plugins-ugly Multimedia graph framework - ugly plugins
+              gthumb Image browser and viewer for the GNOME Desktop
+                gtk3 GObject-based multi-platform GUI toolkit
+    gtkhash-nautilus A GTK+ utility for computing message digests or checksums (Nautilus filemanager plugin)
+gtksourceview-pkgbuild PKGBUILD syntax highlight support in GtkSourceView
+                gufw Uncomplicated way to manage your Linux firewall
+                gvfs Virtual filesystem implementation for GIO
+            gvfs-afc Virtual filesystem implementation for GIO (AFC backend; Apple mobile devices)
+         gvfs-google Virtual filesystem implementation for GIO (Google Drive backend)
+        gvfs-gphoto2 Virtual filesystem implementation for GIO (gphoto2 backend; PTP camera, MTP media player)
+            gvfs-mtp Virtual filesystem implementation for GIO (MTP backend; Android, media player)
+            gvfs-nfs Virtual filesystem implementation for GIO (NFS backend)
+            gvfs-smb Virtual filesystem implementation for GIO (SMB/CIFS backend; Windows client)
+                gzip GNU compression utility
+             haveged Entropy harvesting daemon using CPU timings
+              hitori GTK+ application to generate and let you play games of Hitori
+                htop Interactive process viewer
+               iagno Dominate the board in a classic version of Reversi
+                ibus Next Generation Input Bus for Linux
+   illyria-wallpaper Official Wallpapers for the Manjarolinux 18.x release
+           inetutils A collection of common network programs
+         intel-ucode Microcode update files for Intel CPUs
+                inxi Full featured CLI system information tool
+            iproute2 IP Routing Utilities
+             iputils Network monitoring tools, including ping
+                 iwd Internet Wireless Daemon
+            jfsutils JFS filesystem utilities
+        kernel-alive Back up modules of current kernel to prevent some issues after kernel update
+                less A terminal based program for viewing text files
+lib32-libva-vdpau-driver VDPAU backend for VA API (32-bit)
+    lib32-mesa-demos Mesa demos and tools (32-bit)
+    lib32-mesa-vdpau Mesa VDPAU drivers (32-bit)
+  lib32-vulkan-intel Intel's Vulkan mesa driver (32-bit)
+ lib32-vulkan-radeon Radeon's Vulkan mesa driver (32-bit)
+libappindicator-gtk3 Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library)
+           libdvdcss Portable abstraction library for DVD decryption
+   libva-mesa-driver VA-API implementation for gallium
+  libva-vdpau-driver VDPAU backend for VA API
+            licenses Standard licenses distribution package
+           lightsoff Turn off all the lights
+            linux510 The Linux510 kernel and modules
+           logrotate Rotates system logs automatically
+            lollypop Music player for GNOME
+               lrzip Multi-threaded compression with rzip/lzma, lzo, and zpaq
+                lvm2 Logical Volume Manager 2 utilities
+        lxappearance Feature-rich GTK+ theme switcher of the LXDE Desktop
+                lynx A text browser for the World Wide Web
+                  m4 The GNU macro processor
+                maim Utility to take a screenshot using imlib2
+                make GNU make utility to maintain groups of programs
+              man-db A utility for reading man pages
+           man-pages Linux man pages
+        manjaro-alsa manjaro ALSA support (Meta-PKG)
+manjaro-application-utility Manjaro Application Utility
+     manjaro-artwork Artwork for Manjaro (default)
+ manjaro-aur-support Manjaro AUR support packages
+manjaro-browser-settings Manjaro Linux settings browser defaults
+manjaro-documentation-en Manjaro Beginner User Guide in English
+manjaro-dynamic-wallpaper Dynamic wallpaper for Manjaro
+    manjaro-firmware Extra firmwares for Manjaro Linux
+manjaro-gnome-postinstall Postinstall scripts for Gnome
+  manjaro-gnome-tour A guided tour and greeter for Manjaro GNOME
+manjaro-gnome-vanilla Tool for revert easly Manjaro Gnome in a Manjaro Vanilla Gnome
+    manjaro-hotfixes Manjaro Linux Hotfixes
+  manjaro-log-helper Gathers selected system logs and optionally sends them to the internet.
+     manjaro-printer Manjaro Printer support (Meta-PKG)
+       manjaro-pulse manjaro Pulseaudio support (Meta-PKG)
+manjaro-ranger-settings Manjaro Linux bspwm settings
+     manjaro-release Manjaro's release definition
+manjaro-settings-manager-notifier Manjaro Linux System Settings Tool (Notifier)
+      manjaro-system Manjaro Linux System - Update script
+manjaro-wallpapers-18.0 Official Wallpapers for the Manjarolinux 18.x release
+  manjaro-zsh-config Zsh configuration for manjaro
+             masscan TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes
+                  mc A file manager that emulates Norton Commander
+               mdadm A tool for managing/monitoring Linux md device arrays, also known as Software RAID
+          memtest86+ An advanced memory diagnostic tool
+          mesa-demos Mesa demos and tools incl. glxinfo + glxgears
+          mesa-vdpau Mesa VDPAU drivers
+                mhwd Manjaro Linux Hardware Detection library and application
+             mhwd-db Manjaro Linux Hardware Detection Database
+ mkinitcpio-openswap mkinitcpio hook to open swap at boot time
+mobile-broadband-provider-info Network Management daemon
+        modemmanager Mobile broadband modem management service
+         mousetweaks Mouse accessibility enhancements
+                 mpd Flexible, powerful, server-side application for playing music
+                 mpv a free, open source, and cross-platform media player
+              mutter A window manager for GNOME
+                nano Pico editor clone with enhancements
+            nautilus Default file manager for GNOME
+      nautilus-admin Extension for Nautilus to do administrative operations
+ nautilus-empty-file Provides context menu 'New Document' functionality for nautilus
+            neofetch A CLI system information tool written in BASH that supports displaying images.
+  neovim-nightly-bin Fork of Vim aiming to improve user experience, plugins, and GUIs - Nightly Builds
+              netctl Profile based systemd network management
+      networkmanager Network connection manager and user applications
+networkmanager-openconnect NetworkManager VPN plugin for OpenConnect
+networkmanager-openvpn NetworkManager VPN plugin for OpenVPN
+ networkmanager-pptp NetworkManager VPN plugin for PPTP
+ networkmanager-vpnc NetworkManager VPN plugin for VPNC
+           nfs-utils Support programs for Network File Systems
+          noto-fonts Google Noto TTF fonts
+   noto-fonts-compat Google Noto TTF fonts (compat-package)
+                 npm A package manager for javascript
+            nss-mdns glibc plugin providing host name resolution via mDNS
+             ntfs-3g NTFS filesystem driver and utilities
+                 ntp Network Time Protocol reference implementation
+            numlockx Turns on the numlock key in X11.
+onlyoffice-desktopeditors Open-source office suite that combines text, spreadsheet and presentation editors.
+          openresolv resolv.conf management framework (resolvconf)
+             openssh Premier connectivity tool for remote login with the SSH protocol
+                orca Screen reader for individuals who are blind or visually impaired
+           os-prober Utility to detect other OSes on a set of drives
+               p7zip Command-line file archiver with high compression ratio
+              pacman A library-based package manager with dependency support
+               pacui Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
+pamac-flatpak-plugin Flatpak plugin for Pamac
+           pamac-gtk A Package Manager based on libalpm with AUR and Appstream support
+papirus-maia-icon-theme Manjaro variation of Papirus icon theme
+               patch A utility to apply patch files to original sources
+         pavucontrol PulseAudio Volume Control
+            pciutils PCI bus configuration space access library and tools
+                peek Simple screen recorder with an easy to use interface
+                perl A highly capable, feature-rich programming language
+  picom-ibhagwan-git iBhagwan's compton|picom fork (X compositor) with dual_kawase blur and rounded corners
+        pipes-rs-git An over-engineered rewrite of pipes.sh in Rust
+            pipes.sh Animated pipes terminal screensaver
+             pkgconf Package compiler and linker metadata toolkit
+           playerctl mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
+plymouth-theme-manjaro Plymouth theme for Manjaro
+              polari An IRC Client for GNOME
+        polkit-gnome Legacy polkit authentication agent for GNOME
+             polybar A fast and easy-to-use status bar
+            powertop A tool to diagnose issues with power consumption and power management
+           procps-ng Utilities for monitoring your system and its processes
+              psmisc Miscellaneous procfs tools
+pulseaudio-bluetooth Bluetooth support for PulseAudio
+      pulseaudio-ctl Control pulseaudio volume from the shell or mapped to keyboard shortcuts.
+ pulseaudio-zeroconf Zeroconf support for PulseAudio
+      python-fzf-wal pywal theme selector using fzf
+           pywal-git Generate and change color-schemes on the fly.
+      qgnomeplatform QPlatformTheme for a better Qt application inclusion in GNOME
+        quadrapassel Fit falling blocks together (Tetris-like game for GNOME)
+       reiserfsprogs Reiserfs utilities
+                rofi A window switcher, application launcher and dmenu replacement
+               rsync A fast and versatile file copying tool for remote and local files
+        rxvt-unicode Unicode enabled rxvt-clone terminal emulator (urxvt)
+               rygel UPnP AV MediaServer and MediaRenderer
+              s-nail Environment for sending and receiving mail
+         screenfetch CLI Bash script to show system/theme info in screenshots
+               scrot Simple command-line screenshot utility for X
+            seahorse GNOME application for managing PGP keys.
+                 sed GNU stream editor
+              shadow Password and account management tool suite with support for shadow files and PAM
+         simple-scan Simple scanning utility
+          snapd-glib Library to allow GLib/Qt based applications access to snapd, the daemon that controls Snaps
+spectre-meltdown-checker Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker
+             spotify A proprietary music streaming service
+         spotify-tui Spotify client for the terminal written in Rust
+            spotifyd Lightweigt spotify streaming daemon with spotify connect support
+                sudo Give certain users the ability to run some commands as root
+               sushi A quick previewer for Nautilus
+          swell-foop Clear the screen by removing groups of colored and shaped tiles
+               sxhkd Simple X hotkey daemon
+                sxiv Simple X Image Viewer
+          sysfsutils System Utilities Based on Sysfs
+             sysprof Kernel based performance profiler
+             systemd system and service manager
+ systemd-fsck-silent File system checks for SystemD (silent)
+  systemd-sysvcompat sysvinit compat for systemd
+                tali Beat the odds in a poker-style dice game
+                 tar Utility used to store, backup, and transport files
+             texinfo GNU documentation system for on-line information and printed output
+           timeshift A system restore utility for Linux
+                 tlp Linux Advanced Power Management
+               totem Movie player for the GNOME desktop based on GStreamer
+             tracker Desktop-neutral user information store, search tool and indexer
+      tracker-miners Collection of data extractors for Tracker/Nepomuk
+    transmission-gtk Fast, easy, and free BitTorrent client (GTK+ GUI)
+          ttf-dejavu Font family based on the Bitstream Vera Fonts with a wider range of characters
+           ttf-droid General-purpose fonts released by Google as part of Android
+    ttf-font-awesome Iconic font designed for Bootstrap
+     ttf-inconsolata Monospace font for pretty code listings and for the terminal
+       ttf-indic-otf Indic Opentype Fonts collection
+      ttf-liberation Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
+               unace An extraction tool for the proprietary ace archive format
+               unrar The RAR uncompression program
+      usb_modeswitch Activating switchable USB devices on Linux.
+            usbutils A collection of USB tools to query connected USB devices
+          util-linux Miscellaneous system utilities for Linux
+                  vi The original ex/vi text editor
+                 vim Vi Improved, a highly configurable, improved version of the vi text editor
+     vim-sxhkdrc-git Vim syntax for sxhkd's configuration files
+                vino A VNC server for the GNOME desktop
+                 vis modern, legacy free, simple yet efficient vim-like editor
+visual-studio-code-bin Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
+        vulkan-intel Intel's Vulkan mesa driver
+       vulkan-radeon Radeon's Vulkan mesa driver
+                 w3m Text-based Web browser as well as pager
+     wallpapers-2018 Wallpapers for Manjaro - 2018
+  wallpapers-juhraya Community Wallpapers for the Manjarolinux 18.1 Juhraya release
+      webapp-manager Run websites as if they were apps
+                wget Network utility to retrieve files from the Web
+               which A utility to show the full path of commands
+      wpa_supplicant A utility providing key negotiation for WPA wireless networks
+       xcursor-comix Comix X Cursor Theme
+      xcursor-themes X.org Cursor themes
+       xdg-user-dirs Manage user directories like ~/Desktop and ~/Music
+   xdg-user-dirs-gtk Creates user dirs and asks to relocalize them
+           xdg-utils Command line tools that assist applications with a variety of desktop integration tasks
+xf86-input-elographics X.org Elographics TouchScreen input driver
+    xf86-input-evdev X.org evdev input driver
+ xf86-input-libinput Generic input driver for the X.Org server based on libinput
+     xf86-input-void X.org void input driver
+    xf86-input-wacom X.Org Wacom tablet driver
+   xf86-video-amdgpu X.org amdgpu video driver
+      xf86-video-ati X.org ati video driver
+    xf86-video-intel X.org Intel i810/i830/i915/945G/G965+ video drivers
+  xf86-video-nouveau Open Source 3D acceleration driver for nVidia cards
+            xfsprogs XFS filesystem utilities
+    xorg-mkfontscale Create an index of scalable font files for X
+         xorg-server Xorg X server
+            xorg-twm Tab Window Manager for the X Window System
+     xorg-xbacklight RandR-based backlight control application
+          xorg-xinit X.Org initialisation program
+                  xz Library and command line tools for XZ and LZMA compressed files
+                 yay Yet another yogurt. Pacman wrapper and AUR helper written in go.
+                yelp Get help with GNOME
+          youtube-dl A command-line program to download videos from YouTube.com and a few more sites
+         zscroll-git A text scroller for use with panels
